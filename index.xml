@@ -7,5 +7,19 @@
     <generator>Hugo</generator>
     <language>en-us</language>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/portfolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/portfolio/</guid>
+      <description>Skills Technical Database: Mysql (advanced) PostgreSql (entry-level) Sqlite (entry-level) MongoDB (entry-level) Language: Go (entry-level) PHP (advanced) / JS/TS (intermediate) Framework: BE: Gin-gonic (entry-level) Laravel (intermediate) Magento (intermediate) FE: Reactjs (intermediate) Nextjs (entry-level) Infrastructure: Nginx (intermediate) Docker (intermediate) AWS (entry-level) Gitlab CI/CD (entry-level) Other devtools: Git (intermediate) IDE (intermediate) Chrome Devtools (intermediate) Non-Technical English: intermediate, verbal &amp; non-verbal Experience Full-stack Developer Company: Fintech Company Duration: 2024 - present Full-stack Developer Company: Intersoft Duration: 2023 - 2024 (layoff) Full-stack Developer Company: Manifera - Experienced, Reliable Software Development Teams Duration: 2021 - 2023 Magento Backend Developer Company: SmartOSC Duration: 2019 - 2021 Education - Certifications Ho Chi Minh City University of Technology Electronics-Telecommunications Engineering 2014 - 2019 TOEIC 750 IIG Vietnam 2019 </description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>Professional Projects Fintech System (May 2024 - present)&#xA;Description: Build a system, show in in-app webview, indicate products (including affiliate links). Technologies: Gin-gonic (Golang), Reactjs, MongoDB, Docker Team size: 3 members (1 developer) Responsibilities: Research &amp; suggest technical solution. Manage git &amp; server deployment. Fintech System (maintenance) (Mar 2024 - present)&#xA;Description: Maintain a system to show, compare loans, credit cards best offer on Vietnamese market. Tracking affiliate link clicks &amp; sync data to BigQuery, which allow Data Analysist to work with.</description>
+    </item>
   </channel>
 </rss>
