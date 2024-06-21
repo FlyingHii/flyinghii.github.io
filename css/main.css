@@ -1,0 +1,18 @@
+img.inline {
+    display: inline-flex;
+    height: 1em;
+    vertical-align: -0.1em;
+}
+
+hr.divider {
+    border: none;
+    border-top: 0.13em dashed;
+}
+
+a.active {
+    font-weight: bold;
+    text-decoration: underline;
+}
+a:visited {
+    color: blue;
+}
