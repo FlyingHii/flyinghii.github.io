@@ -11,8 +11,6 @@ hr.divider {
 
 a.active {
     font-weight: bold;
-    text-decoration: underline;
+    text-decoration: overline;
 }
-a:visited {
-    color: blue;
-}
+
