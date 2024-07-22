@@ -1,6 +1,5 @@
 // JavaScript to highlight active link based on the current path
 document.addEventListener("DOMContentLoaded", function () {
-    console.log('aaaa 111', 111)
     const links = document.querySelectorAll('.nav-link');
     const currentPath = window.location.pathname;
 
@@ -9,7 +8,6 @@ document.addEventListener("DOMContentLoaded", function () {
     }
 
     links.forEach((link) => {
-        console.log('aaaa link', link)
         if (trimTrailingSlash(link.getAttribute('href')) === trimTrailingSlash(currentPath)) {
             link.classList.add('active');
         } else {

@@ -32,9 +32,11 @@ hr.divider {
 
 a.active {
     font-weight: bold;
-    text-decoration: overline;
+    text-decoration: underline;
 }
-
+a:visited {
+    color: blue;
+}
 html {
   overflow-y: scroll
 }
