@@ -6,11 +6,5 @@ img.inline {
 
 hr.divider {
     border: none;
-    border-top: 0.13em dashed;
+    border-top: 2px solid black;
 }
-
-a.active {
-    font-weight: bold;
-    text-decoration: overline;
-}
-
