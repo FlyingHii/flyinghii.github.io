@@ -6,7 +6,7 @@ html {
   --dimcolor: #eee;
   --fontcolor: #000;
   --linkcolor: #00e;
-  --visitedcolor: #551a8b;
+  --visitedcolor: #00e;
   --precolor: #fff;
   --prebgcolor: #000;
 }
@@ -16,7 +16,7 @@ html {
      --dimcolor: #333;
      --fontcolor: #ddd;
      --linkcolor: #5bf;
-     --visitedcolor: #ae5ee0;
+     --visitedcolor: #5bf;
      --precolor: #fff;
      --prebgcolor: #383838;
   }
