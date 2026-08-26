@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="#555" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" role="img" aria-label="CI/CD">
+  <!-- Top arc: CI -> CD -->
+  <path d="M4 12a8 8 0 0 1 13.66-5.66" />
+  <!-- Bottom arc: CD -> CI -->
+  <path d="M20 12a8 8 0 0 1-13.66 5.66" />
+  <!-- Arrowhead at end of top arc (right side) -->
+  <polyline points="17.66 3 17.66 6.34 14.32 6.34" />
+  <!-- Arrowhead at end of bottom arc (left side) -->
+  <polyline points="6.34 21 6.34 17.66 9.68 17.66" />
+  <!-- Center play triangle -->
+  <polygon points="10,8 16,12 10,16" fill="#555" stroke="none" />
+</svg>
